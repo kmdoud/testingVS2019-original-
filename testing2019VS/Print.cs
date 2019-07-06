@@ -15,7 +15,7 @@ namespace testing2019VS
             return result;
         }
         public Print()
-        {
+        { 
 
         } 
      
